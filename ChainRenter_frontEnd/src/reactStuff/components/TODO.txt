@@ -1,0 +1,18 @@
+TODO
+1. handle back presses -- keep state search results there
+2. is /:search a better way to hadle search (ie through api)??
+
+6. process / resize images in the process message/populate user hook
+7. hooks that nofify rentee and make eth contract
+
+9. createa a my transactions page that has all open and past transactions
+9.5/ create a page for the ownder to look at to verify change details of rental
+----then another page to finally have the renter verify initiate contract
+10. figure out how to deal with dates / checked out dates in database   
+----json 
+11. create hook logic to deal with / vet transactions (ie so you can rent to yourself)
+----so the end date cant be sooner that start /// price cant be lower than 0
+12. sorting while in serach/or local listings resets all listings
+13. to list or do more than search -- users must give more detail obviously like phone and username?
+14. need to get error alert that usernameis already taken if taken
+15. replace psql login info with envronment variables

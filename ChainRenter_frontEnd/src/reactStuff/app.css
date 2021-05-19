@@ -1,0 +1,190 @@
+/* .form-element {
+   
+} */
+
+#headz {
+  padding-left: 15px;
+}
+#c-notes {
+  display: flex;
+  padding-right: 5px;
+}
+
+
+.c-notes button {
+    flex: 0 auto;
+    height: 40px;
+    align-items: center;
+
+    
+}
+.jumb{
+  padding: 1.5rem;
+
+}
+.jumb * {
+  
+  /* margin-right: .2rem; */
+}
+
+.logooo{
+  filter: invert(100%)  brightness(188%) contrast(199%);
+  padding-right: .1em;
+  margin-right: .3em;
+  
+    /* filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%); */
+}
+.formJumbo *{
+  margin-right: .15rem;
+  margin-bottom: .25rem;
+}
+
+.helv h3{
+  /* font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif'; */
+  /* font-size: 480%; */
+  font-size: 5vmin;
+}
+.helv h4{
+  /* font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif'; */
+  /* font-size: 480%; */
+  font-size: 4vmin;
+}
+.helv h1{
+  /* font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif'; */
+  /* font-size: 480%; */
+  font-size: 13vmin;
+  margin-bottom: .1rem; 
+  font-weight: 700;
+}
+.centeredX {
+  height: 100vh; /* Magic here */
+  display: block;
+  justify-content: center;
+  align-items: center;
+}
+/* .dropdown {
+  display: inline-block;
+  margin-right: 20px;
+} */
+/* p {
+  padding: 1rem;
+}
+
+#app {
+  padding: 1rem;
+} */
+  /* .c-notes input {
+    flex: 1;
+    padding-right: 10px;
+
+  } */
+
+  .custom-file-upload {
+    border: 1px solid #ccc;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+}
+
+.file-preview {
+  margin: 0 10px;
+}
+
+
+.goo {
+  background-color: lightblue;
+  width: 80%;
+  text-align: center;
+}
+
+.datez {
+  margin-right: 1em ; 
+}
+
+/* .dateForms {
+  margin-bottom: 1rem ; 
+} */
+.prev-wrap{
+  margin: 1%;
+}
+.maincont{
+  width: 80%;
+}
+.aCol{
+  max-width: 225px;
+}
+#detailRow {
+  margin-top: 1em;
+}
+#detailRow div{
+  /* background-color: crimson; */
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.loginForm * {
+  margin-top:2.5%;
+}
+.transactions h4{
+  font-size: 120%;
+  margin-top: 1.5rem;
+  /* justify-content: flex-start; */
+}
+.transactions tr{
+  font-size: 85%;
+  /* margin-top: 1rem; */
+  /* justify-content: flex-start; */
+}
+/* .transtable{
+  font-size: 40%;
+} */
+
+.colBut{
+  
+  display: flex;
+  align-items: center;
+  justify-content: flex-end ;
+  
+  
+}
+.makehundred{
+  width: 100%
+}
+.rowrow{
+  margin-top: 2rem;
+}
+
+.lil-margin-left{
+  margin-left: .2rem;
+}
+
+.linkText{
+  color: blue;
+}
+
+.redText{
+  color: red;
+}
+.buttonDiv *{
+  margin: .2rem;
+}
+
+.timerr img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  margin-bottom: .5rem;
+}
+
+.blueDetailBox{
+  backgroundColor: "#aaccff";
+  padding: ".8rem";
+  margin: ".5rem"; 
+}
+
+.greyDetailBox{
+  backgroundColor: "#999999";
+  padding: ".8rem";
+  margin: ".5rem"; 
+}
