@@ -1,4 +1,4 @@
-# Peer to Peer Lending on Ethereum Blockchain Built with React and Feathers
+# ChainRenter
 
 Code for Chainrenter: A Peer to Peer Lending Platform on the Ethereum Blockchain Built with React and Feathers
 
