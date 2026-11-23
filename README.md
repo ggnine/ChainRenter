@@ -7,7 +7,7 @@ A peer-to-peer lending (renting) platform on the Ethereum blockchain, built with
 ## What's here
 
 - `ChainRenter_frontEnd/`: the React app (Create React App). It talks to a Feathers backend over socket.io (`src/feathers.js`) and to the contracts through web3/truffle-contract, using the compiled artifacts in `src/contracts/` (`Chainrenter.json`, `Ecommerce.json`).
-- **The backend isn't included.** `ChainRenter_backEnd` was a submodule reference with no URL, so its code (the Feathers server and the Solidity sources) was never part of this repo.
+- **The backend wasn't preserved.** It was a Feathers server backed by PostgreSQL that handled login, listings, rental records and image uploads (the `users`, `crlistings`, `transacts` and `uploads` services), plus the Solidity sources. `ChainRenter_backEnd` was only a submodule reference with no URL, so that code was never part of this repo.
 
 ## Running the front end
 
